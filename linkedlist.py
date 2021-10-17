@@ -22,3 +22,5 @@ class SinglyLinkedListNode(object):
     def __init__(self, value):
         self.value = value
         self.next = None
+
+#We can update the way how the result it being displayed.
