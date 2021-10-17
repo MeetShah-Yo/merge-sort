@@ -24,3 +24,5 @@ class SinglyLinkedListNode(object):
         self.next = None
 
 #We can update the way how the result it being displayed.
+
+#And input method as well.
