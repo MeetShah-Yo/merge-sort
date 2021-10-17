@@ -74,3 +74,5 @@ for i in range(n):
 	print ("%d" %arr[i]), 
 
 # This code is contributed by Mohit Kumra 
+
+# We can update input and output method.
